@@ -1,0 +1,7 @@
+#Thu Mar 09 11:36:23 GMT 2017
+base.0=/Users/student/Desktop/Android-BLEPad-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa7c827905bcb9e16e5ddd500197e167e91e24c4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/student/Desktop/Android-BLEPad-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a01de73756878f4518864c7e2a855c6c14bd581/classes.dex
+base.1=/Users/student/Desktop/Android-BLEPad-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a01de73756878f4518864c7e2a855c6c14bd581
+file.0=/Users/student/Desktop/Android-BLEPad-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa7c827905bcb9e16e5ddd500197e167e91e24c4/classes.dex
